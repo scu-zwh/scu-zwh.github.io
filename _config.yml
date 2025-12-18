@@ -23,7 +23,7 @@ repository               : "scu-zwh/scu-zwh.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "files/prof_pic.png"
   name             : "Wenhao Zheng"
   pronouns         : # exam: "she/her"  
   bio              : "PhD in the College of Computer Science, Sichuan University"
