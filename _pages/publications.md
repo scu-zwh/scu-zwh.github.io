@@ -10,7 +10,7 @@ author_profile: true
 1.  *ProtoDiff: Prototypical Diffusion Model for Few-Shot Molecular Image Generation* <br>
 **Wenhao Zheng**, Peidong Liu, Hanwen Zhang, Chenwei Sun, Xiong Deng, Xianggen Liu, Jiancheng Lv <br>
 IEEE transactions on computational biology and bioinformatics <br>
-***TCBB, <span style="color:red">CCF-B, JCR Q1, IF=3.4</span>***
+***TCBB 2025, <span style="color:red">CCF-B, JCR Q1, IF=3.4</span>***
 
 1.  *Target-Guided Bayesian Flow Networks for Quantitatively Constrained CAD Generation* <br>
 **Wenhao Zheng**, Chenwei Sun, Wenbo Zhang, Jiancheng Lv, Xianggen Liu <br>
