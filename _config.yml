@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Wenhao Zheng"
+title                    : "Homepage"
 title_separator          : "-"
 name                     : &name "Wenhao Zheng"
 description              : &description "Wenhao Zheng's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -166,6 +166,8 @@ include:
   - _pages
   - files
 exclude:
+  - _teaching/
+  - _posts/
   - "*.sublime-project"
   - "*.sublime-workspace"
   - .asset-cache
@@ -222,16 +224,16 @@ kramdown:
 # These settings control the types of collections used by the template
 collections:
   teaching:
-    output: true
+    output: false
     permalink: /:collection/:path/
   publications:
     output: true
     permalink: /:collection/:path/
   portfolio:
-    output: true
+    output: false
     permalink: /:collection/:path/
   talks:
-    output: true
+    output: false
     permalink: /:collection/:path/
 
 
