@@ -11,15 +11,10 @@ I am a Ph.D. student in the Data Intelligence and Computing Art Laboratory at th
 
 My research explores the frontiers of Generative Models (specifically Diffusion Models & Bayesian Flow Networks). I focus on bridging the gap between generative algorithms and practical applications, such as Molecular Generation for drug discovery and Parametric CAD Generation for industrial design.
 
-<span style="color:red">What’s New</span>
-=====
-* **[Nov. 2025]** 🎉 Our paper titled "**ProtoDiff**: Prototypical Diffusion Model for Few-Shot Molecular Image Generation" has been accepted by **IEEE TCBB**!
-* **[Jul. 2025]** 🇮🇪 One paper titled "Target-Guided Bayesian Flow Networks for Quantitatively Constrained CAD Generation" (**TGBFN**) was accepted to **ACM MM 2025** (Dublin)!
-
 News
 =====
-* **[Nov. 2025]** Our paper has been accepted by **IEEE TCBB**!
-* **[Jul. 2025]** One paper has been accepted to **ACM MM 2025**!
+* **[Nov. 2025]** One paper has been accepted by **IEEE TCBB**!
+* **[Jul. 2025]** One paper has been accepted by **ACM MM 2025**!
 
 Selected Publications
 =====
