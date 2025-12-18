@@ -24,7 +24,7 @@ Selected Publications
 Proceedings of the 33rd ACM International Conference on Multimedia <br>
 ***ACM MM 2025, <span style="color:red">CCF-A</span>***
 
-2.  *ProtoDiff: Prototypical Diffusion Model for Few-Shot Molecular Image Generation* <br>
+1.  *ProtoDiff: Prototypical Diffusion Model for Few-Shot Molecular Image Generation* <br>
 **Wenhao Zheng**, Peidong Liu, Hanwen Zhang, Chenwei Sun, Xiong Deng, Xianggen Liu, Jiancheng Lv <br>
 IEEE transactions on computational biology and bioinformatics <br>
-***TCBB, <span style="color:red">CCF-B</span>***
+***TCBB, <span style="color:red">CCF-B, JCR Q1, IF=3.4</span>***
