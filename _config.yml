@@ -25,8 +25,8 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Wenhao Zheng"
-  pronouns         : "her" # exam: eshe/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  pronouns         : # exam: "she/her"  
+  bio              : "PhD in the College of Computer Science, Sichuan University"
   location         : "Chengdu, China"
   employer         : "Sichuan University"
   uri              : # URL
