@@ -5,32 +5,23 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if site.author.googlescholar %}
+<!-- {% if site.author.googlescholar %}
   <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
-{% endif %}
+{% endif %} -->
 
-{% include base_path %}
+2025
+====
+1.  *ProtoDiff: Prototypical Diffusion Model for Few-Shot Molecular Image Generation* <br>
+**Wenhao Zheng**, Peidong Liu, Hanwen Zhang, Chenwei Sun, Xiong Deng, Xianggen Liu, Jiancheng Lv <br>
+IEEE transactions on computational biology and bioinformatics <br>
+***TCBB, <span style="color:red">CCF-B, JCR Q1, IF=3.4</span>***
 
-<!-- New style rendering if publication categories are defined -->
-{% if site.publication_category %}
-  {% for category in site.publication_category  %}
-    {% assign title_shown = false %}
-    {% for post in site.publications reversed %}
-      {% if post.category != category[0] %}
-        {% continue %}
-      {% endif %}
-      {% unless title_shown %}
-        <h2>{{ category[1].title }}</h2><hr />
-        {% assign title_shown = true %}
-      {% endunless %}
-      {% include archive-single.html %}
-    {% endfor %}
-  {% endfor %}
-{% else %}
-  {% for post in site.publications reversed %}
-    {% include archive-single.html %}
-  {% endfor %}
-{% endif %}
+1.  *Target-Guided Bayesian Flow Networks for Quantitatively Constrained CAD Generation* <br>
+**Wenhao Zheng**, Chenwei Sun, Wenbo Zhang, Jiancheng Lv, Xianggen Liu <br>
+Proceedings of the 33rd ACM International Conference on Multimedia <br>
+***ACM MM 2025, <span style="color:red">CCF-A</span>***
 
-
-
+1.  *TargetSA: adaptive simulated annealing for target-specific drug design* <br>
+Zhe Xue, Chenwei Sun, **Wenhao Zheng**, Jiancheng Lv, Xianggen Liu <br>
+Bioinformatics <br>
+***Bioinformatics 2025, <span style="color:red">CCF-B, JCR Q1, IF=5.4</span>***
