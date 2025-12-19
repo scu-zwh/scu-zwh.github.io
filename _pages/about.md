@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. student in the Data Intelligence and Computing Art Laboratory at the College of Computer Science, Sichuan University, and the Engineering Research Center of Machine Learning and Industry Intelligence, Ministry of Education of China. I am advised by [Prof. Jiancheng Lv](https://scholar.google.com/citations?user=0TCaWKwAAAAJ) and collaborate closely with [Prof. Xianggen Liu](https://scholar.google.com/citations?user=qxNzQfQAAAAJ).
+I am a Ph.D. student in the Data Intelligence and Computing Art Laboratory at the College of Computer Science, Sichuan University, and the Engineering Research Center of Machine Learning and Industry Intelligence, Ministry of Education of China. I am advised by [Prof. Jiancheng Lv](https://cs.scu.edu.cn/info/1303/13767.htm){:target="_blank"} and collaborate closely with [Prof. Xianggen Liu](https://cs.scu.edu.cn/info/1283/16826.htm){:target="_blank"}.
 
 My research explores the frontiers of Generative Models (specifically Diffusion Models & Bayesian Flow Networks). I focus on bridging the gap between generative algorithms and practical applications, such as Molecular Generation for drug discovery and Parametric CAD Generation for industrial design.
 
