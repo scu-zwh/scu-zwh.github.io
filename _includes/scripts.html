@@ -3,12 +3,17 @@
 {% include analytics.html %}
 
 <script>
-  var links = document.links;
-  for (var i = 0, linksLength = links.length; i < linksLength; i++) {
-    // 检查链接是否包含域名（排除锚点等）且域名与当前网站不同
-    if (links[i].hostname != window.location.hostname) {
-      links[i].target = '_blank';
-      links[i].setAttribute('rel', 'noopener noreferrer');
+  document.addEventListener("DOMContentLoaded", function() {
+    var links = document.getElementsByTagName('a');
+    for (var i = 0; i < links.length; i++) {
+      // 排除掉没有 href 的链接（比如锚点）
+      if (!links[i].href) continue;
+      
+      // 检查链接的域名是否和当前网站不同
+      if (links[i].hostname !== window.location.hostname) {
+        links[i].target = '_blank';
+        links[i].setAttribute('rel', 'noopener noreferrer');
+      }
     }
-  }
+  });
 </script>
