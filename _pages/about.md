@@ -19,18 +19,17 @@ News
 
 Selected Publications
 =====
+1.  GraphCAD: Geometry-Aware Diffusion on Edge-Adjacency Graphs for CAD Generation* <br>
+**Wenhao Zheng**, Xianggen Liu, Li Yue, Jiancheng Shi, Jiancheng Lv <br>
+Proceedings of the 34rd ACM International Conference on Multimedia <br>
+***ACM MM 2026, <span style="color:red">CCF-A</span>***
 
-1.  *Target-Guided Bayesian Flow Networks for Quantitatively Constrained CAD Generation* <br>
-**Wenhao Zheng**, Chenwei Sun, Wenbo Zhang, Jiancheng Lv, Xianggen Liu <br>
-Proceedings of the 33rd ACM International Conference on Multimedia <br>
-***ACM MM 2025, <span style="color:red">CCF-A</span>***
-
-2.  *ProtoDiff: Prototypical Diffusion Model for Few-Shot Molecular Image Generation* <br>
+1.  *ProtoDiff: Prototypical Diffusion Model for Few-Shot Molecular Image Generation* <br>
 **Wenhao Zheng**, Peidong Liu, Hanwen Zhang, Chenwei Sun, Xiong Deng, Xianggen Liu, Jiancheng Lv <br>
 IEEE transactions on computational biology and bioinformatics <br>
 ***TCBB 2025, <span style="color:red">CCF-B, JCR Q1, IF=3.4</span>***
 
-3.  GraphCAD: Geometry-Aware Diffusion on Edge-Adjacency Graphs for CAD Generation* <br>
-**Wenhao Zheng**, Xianggen Liu, Li Yue, Jiancheng Shi, Jiancheng Lv <br>
-Proceedings of the 34rd ACM International Conference on Multimedia <br>
-***ACM MM 2026, <span style="color:red">CCF-A</span>***
+1.  *Target-Guided Bayesian Flow Networks for Quantitatively Constrained CAD Generation* <br>
+**Wenhao Zheng**, Chenwei Sun, Wenbo Zhang, Jiancheng Lv, Xianggen Liu <br>
+Proceedings of the 33rd ACM International Conference on Multimedia <br>
+***ACM MM 2025, <span style="color:red">CCF-A</span>***                  
