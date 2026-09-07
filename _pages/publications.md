@@ -10,7 +10,7 @@ author_profile: true
 1. *GraphCAD: Geometry-Aware Diffusion on Edge-Adjacency Graphs for CAD Generation* <br>
 **Wenhao Zheng**, Xianggen Liu, Li Yue, Jiancheng Shi, Jiancheng Lv <br>
 Proceedings of the 34th ACM International Conference on Multimedia <br>
-ACM MM 2026, CCF-A
+***ACM MM 2026, <span style="color:red">CCF-A</span>***
 
 1.  *Enhancing Numerical Prediction in LLMs via Smooth MMD Alignment* <br>
 Zhuo Zuo, Li Yue, **Wenhao Zheng**, Chenpeng Wang, Xianggen Liu <br>
