@@ -19,9 +19,9 @@ News
 
 Selected Publications
 =====
-1.  GraphCAD: Geometry-Aware Diffusion on Edge-Adjacency Graphs for CAD Generation* <br>
+1.  *GraphCAD: Geometry-Aware Diffusion on Edge-Adjacency Graphs for CAD Generation* <br>
 **Wenhao Zheng**, Xianggen Liu, Li Yue, Jiancheng Shi, Jiancheng Lv <br>
-Proceedings of the 34rd ACM International Conference on Multimedia <br>
+Proceedings of the 34th ACM International Conference on Multimedia <br>
 ***ACM MM 2026, <span style="color:red">CCF-A</span>***
 
 1.  *ProtoDiff: Prototypical Diffusion Model for Few-Shot Molecular Image Generation* <br>
